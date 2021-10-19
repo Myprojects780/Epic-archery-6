@@ -78,7 +78,7 @@ function draw() {
   textSize(40);
   text("EPIC ARCHERY", width / 2, 100);
   textSize(20)
-  text("remaining arrows:"+ numberOfArrows , (width / 2)-500, 100)
+  text("remaining arrows:"+ numberOfArrows , (width / 2)-90, 200)
 }
 
 function keyPressed() {
